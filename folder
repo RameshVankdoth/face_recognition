@@ -1,0 +1,14 @@
+#This is the folder structure 
+project_folder/
+│
+├── train_faces.py
+├── recognize_faces.py
+├── dataset/
+│   ├── Ramesh
+|   |    ├── Ramesh.1.jpeg
+|   |    ├── Ramesh.2.jpeg
+│   ├── Asad
+|   |    ├── Asad.1.jpeg
+|   |    ├── Asad.2.jpeg
+│   └── ...
+├── face_encodings.pkl  # This file will be generated after running train_faces.py

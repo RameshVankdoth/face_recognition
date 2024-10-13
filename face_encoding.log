@@ -1,0 +1,32 @@
+2024-09-22 12:26:24 - INFO - Starting the face encoding process.
+2024-09-22 12:26:24 - INFO - Processing image: C:\Users\vanky\OneDrive\Desktop\Face\dataset\Asad\Asad.1.jpeg
+2024-09-22 12:26:25 - INFO - Encoding for Asad added with shape: (128,).
+2024-09-22 12:26:25 - INFO - Encoding for Asad added.
+2024-09-22 12:26:25 - INFO - Processing image: C:\Users\vanky\OneDrive\Desktop\Face\dataset\Asad\Asad.2.jpeg
+2024-09-22 12:26:27 - INFO - Encoding for Asad added with shape: (128,).
+2024-09-22 12:26:27 - INFO - Encoding for Asad added.
+2024-09-22 12:26:27 - INFO - Processing image: C:\Users\vanky\OneDrive\Desktop\Face\dataset\Asad\Asad.3.jpeg
+2024-09-22 12:26:28 - INFO - Encoding for Asad added with shape: (128,).
+2024-09-22 12:26:28 - INFO - Encoding for Asad added.
+2024-09-22 12:26:28 - INFO - Processing image: C:\Users\vanky\OneDrive\Desktop\Face\dataset\Asad\Asad.4.jpeg
+2024-09-22 12:26:29 - INFO - Encoding for Asad added with shape: (128,).
+2024-09-22 12:26:29 - INFO - Encoding for Asad added.
+2024-09-22 12:26:29 - INFO - Processing image: C:\Users\vanky\OneDrive\Desktop\Face\dataset\Asad\Asad.5.jpeg
+2024-09-22 12:26:30 - INFO - Encoding for Asad added with shape: (128,).
+2024-09-22 12:26:30 - INFO - Encoding for Asad added.
+2024-09-22 12:26:30 - INFO - Processing image: C:\Users\vanky\OneDrive\Desktop\Face\dataset\Ramesh\Ramesh.1.jpeg
+2024-09-22 12:26:31 - INFO - Encoding for Ramesh added with shape: (128,).
+2024-09-22 12:26:31 - INFO - Encoding for Ramesh added.
+2024-09-22 12:26:31 - INFO - Processing image: C:\Users\vanky\OneDrive\Desktop\Face\dataset\Ramesh\Ramesh.2.jpeg
+2024-09-22 12:26:33 - INFO - Encoding for Ramesh added with shape: (128,).
+2024-09-22 12:26:33 - INFO - Encoding for Ramesh added.
+2024-09-22 12:26:33 - INFO - Processing image: C:\Users\vanky\OneDrive\Desktop\Face\dataset\Ramesh\Ramesh.3.jpeg
+2024-09-22 12:26:34 - INFO - Encoding for Ramesh added with shape: (128,).
+2024-09-22 12:26:34 - INFO - Encoding for Ramesh added.
+2024-09-22 12:26:34 - INFO - Processing image: C:\Users\vanky\OneDrive\Desktop\Face\dataset\Ramesh\Ramesh.4.jpeg
+2024-09-22 12:26:35 - INFO - Encoding for Ramesh added with shape: (128,).
+2024-09-22 12:26:35 - INFO - Encoding for Ramesh added.
+2024-09-22 12:26:35 - INFO - Processing image: C:\Users\vanky\OneDrive\Desktop\Face\dataset\Ramesh\Ramesh.5.jpeg
+2024-09-22 12:26:36 - INFO - Encoding for Ramesh added with shape: (128,).
+2024-09-22 12:26:36 - INFO - Encoding for Ramesh added.
+2024-09-22 12:26:36 - INFO - Encodings saved to face_encodings.pkl.
